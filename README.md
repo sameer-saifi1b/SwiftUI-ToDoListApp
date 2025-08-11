@@ -48,7 +48,7 @@ This project is my first step into iOS development and showcases my understandin
 ## 🏃 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sameer-saifi1b/ToDoListApp.git
+   git clone https://github.com/sameer-saifi1b/SwiftUI-ToDoListApp.git
    
 Open ToDoListApp.xcodeproj in Xcode
 
