@@ -57,7 +57,9 @@ Select an iOS Simulator (e.g., iPhone 15)
 Press Run ▶️
 
 📬 Contact
+
 Sameer Saifi
+
 📧 Email: sameer.saifi1b@gmail.com
 
 💼 www.linkedin.com/in/sameer-saifi1b
