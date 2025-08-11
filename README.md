@@ -25,17 +25,16 @@ This project is my first step into iOS development and showcases my understandin
 ## 📸 Screenshots
 
 ### Main screen
-![Main Screen](image1.png)
+<img src="image1.png" width="300"/>
 
 ### Add Task
-![Add Task](image2.png)
+<img src="image2.png" width="300"/>
 
 ### Completed Task
-![Completed Task](image3.png)
+<img src="image3.png" width="300"/>
 
 ### Delete task
-![delete Task](image4.png)
-
+<img src="image4.png" width="300"/>
 ---
 
 ## 🎯 Learning Outcomes
@@ -49,7 +48,8 @@ This project is my first step into iOS development and showcases my understandin
 ## 🏃 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/ToDoListApp.git
+   git clone https://github.com/sameer-saifi1b/ToDoListApp.git
+   
 Open ToDoListApp.xcodeproj in Xcode
 
 Select an iOS Simulator (e.g., iPhone 15)
@@ -59,6 +59,8 @@ Press Run ▶️
 📬 Contact
 Sameer Saifi
 📧 Email: sameer.saifi1b@gmail.com
+
 💼 www.linkedin.com/in/sameer-saifi1b
+
 🐙 https://github.com/sameer-saifi1b
 
